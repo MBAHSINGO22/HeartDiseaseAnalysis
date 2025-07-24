@@ -1,4 +1,4 @@
-<h1 align="center">❤️ HeartDiseaseAnalysis</h1>
+<h1 align="center">❤️ Heart Disease Analysis</h1>
 <p align="center">
   <b>Analisis Dataset Penyakit Jantung Menggunakan Machine Learning</b><br>
   <sub>Eksplorasi data medis untuk prediksi risiko penyakit jantung</sub>
@@ -18,7 +18,7 @@
 
 ## 📖 Deskripsi Proyek
 
-**HeartDiseaseAnalysis** adalah proyek berbasis Jupyter Notebook untuk menganalisis dataset penyakit jantung (`heart_disease_uci.csv`).  
+**HeartDiseaseAnalysis** adalah project untuk menganalisis dataset penyakit jantung (`heart_disease_uci.csv`).  
 Analisis meliputi:
 - Eksplorasi data demografis dan klinis
 - Visualisasi distribusi fitur medis (usia, tekanan darah, kolesterol, dll)
@@ -31,8 +31,7 @@ Analisis meliputi:
 ```
 HeartDiseaseAnalysis/
 ├── heart_disease_uci.csv       # Dataset penyakit jantung
-├── Tugas_235314099.ipynb       # Notebook analisis & ML
-└── README.md                   # Dokumentasi proyek
+└── Tugas_235314099.ipynb       # Notebook analisis & ML
 ```
 
 ---
